@@ -11,6 +11,8 @@
         <module>shop-common</module>
         <module>shop-user</module>
         <module>eureka-server</module>
+        <module>server-provider</module>
+        <module>server-consumer</module>
     </modules>
     <packaging>pom</packaging>
 
